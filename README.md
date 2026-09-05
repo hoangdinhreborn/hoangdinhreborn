@@ -2,5 +2,9 @@
 <h4 align="center">Open to freelance opportunities</h4>
 
 - 📫 Email: **hoangquy3001@gmail.com**
-- 📱 Phone: **0329997881**
+<details>
+<summary>📱 Phone number (click to reveal)</summary>
+<br>
+0329997881
+</details>
 - 📸 Instagram: [@_wishuba3k](https://instagram.com/_wishuba3k)
