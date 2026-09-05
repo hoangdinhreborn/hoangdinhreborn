@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoàng Đình Reborn</h1>
+<h1 align="center">Hi 👋, I'm Hoang Reborn </h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
 - 📫 Email: **hoangquy3001@gmail.com**
