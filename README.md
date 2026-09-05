@@ -1,14 +1,27 @@
-<h1 align="center">Xin chào 👋, tôi là Hoàng Đình Reborn</h1>
-<h3 align="center">Thương lái sầu riêng 🌴🚚</h3>
+<h1 align="center">Hi 👋, I'm Hoàng Đình Reborn</h1>
+<h3 align="center">A passionate developer from Vietnam</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=hoangdinhreborn&color=orange&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=hoangdinhreborn&color=blueviolet&style=flat-square&label=Profile+Views)
 
-- 🌴 Chuyên **buôn bán, thu mua sầu riêng**
-- 🚚 Hiện đang làm **thương lái** thu mua và phân phối sầu riêng
-- 📍 Hoạt động chủ yếu tại khu vực Tây Nguyên
-- 📫 Liên hệ mình qua email: **hoangquy3001@gmail.com**
-- 🤝 Sẵn sàng hợp tác thu mua, ký gửi, vận chuyển sầu riêng
+- 🔭 I'm currently working on **your project name**
+- 🌱 I'm currently learning **skill/tech name**
+- 💬 Ask me about **your expertise**
+- 📫 How to reach me: **hoangquy3001@gmail.com**
 
-### 🔗 Liên hệ với tôi
+### 🛠️ Languages and Tools
 
-📧 Email: hoangquy3001@gmail.com
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github" />
+</p>
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=hoangdinhreborn&show_icons=true&theme=radical)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hoangdinhreborn&theme=radical)
+
+### 🔗 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" /></a>
+</p>
