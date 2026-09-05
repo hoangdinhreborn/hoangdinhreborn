@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Xin chào 👋, tôi là Hoàng Đình Reborn</h1>
+<h3 align="center">Thương lái sầu riêng 🌴🚚</h3>
 
-<!--
-**hoangdinhreborn/hoangdinhreborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=hoangdinhreborn&color=orange&style=flat-square&label=Profile+Views)
 
-Here are some ideas to get you started:
+- 🌴 Chuyên **buôn bán, thu mua sầu riêng**
+- 🚚 Hiện đang làm **thương lái** thu mua và phân phối sầu riêng
+- 📍 Hoạt động chủ yếu tại khu vực Tây Nguyên
+- 📫 Liên hệ mình qua email: **hoangquy3001@gmail.com**
+- 🤝 Sẵn sàng hợp tác thu mua, ký gửi, vận chuyển sầu riêng
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Liên hệ với tôi
+
+📧 Email: hoangquy3001@gmail.com
