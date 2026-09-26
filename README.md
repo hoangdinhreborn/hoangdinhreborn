@@ -7,4 +7,3 @@
 <br>
 0329997881
 </details>
-- 📸 Instagram: [@_wishuba3k](https://instagram.com/_wishuba3k)
